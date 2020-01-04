@@ -1,0 +1,10 @@
+export const SIGN_IN = "SIGN_IN";
+export const SIGN_OUT = "SIGN_OUT";
+export const GET_USER = "GET_USER";
+export const CLEAR_USER = "CLEAR_USER";
+export const GET_ALL_STREAMS = "GET_ALL_STREAMS";
+export const GET_STREAM = "GET_STREAM";
+export const POST_STREAM = "POST_STREAM";
+export const PATCH_STREAM = "PATCH_STREAM";
+export const DELETE_STREAM = "DELETE_STREAM";
+export const CLEAR_STREAM = "CLEAR_STREAM";
